@@ -12,7 +12,7 @@ ob_start();
 <?php if ($conn = dbConnect()): ?>
 <h1>home page</h1>
 <?php else: ?>
-<h1> Erro ao conectar</h1>
+<h1> Erro ao conectar </h1>
 <?php endif;?>
 
 <?php 
