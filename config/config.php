@@ -1,5 +1,5 @@
 <?php
-//CONFIGURAÇÃO DO BANCO DE DADOS
+
 define('DB_HOST', 'mysql');
 define('DB_NAME', 'enquetes');
 define('DB_USER', 'root');

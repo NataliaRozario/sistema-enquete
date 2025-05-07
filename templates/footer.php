@@ -4,7 +4,7 @@
             <?php 
                 echo date("Y"); 
             ?> 
-            Enquetônico 2025. Todos os direitos reservados
+            Enquetônico. Todos os direitos reservados.
         </p>
     </div>
 </footer>
