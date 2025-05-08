@@ -54,7 +54,7 @@ echo renderTemplate();
     </div>
 
     <div id="criarEnquete"></div>
-    <button type="submit" class="btn btn-primary" id="liveAlertBtn">Criar enquete</button>
+    <button type="submit" class="btn btn-primary btn-admin" id="liveAlertBtn">Criar enquete</button>
     </form>
     </div>
     </div>

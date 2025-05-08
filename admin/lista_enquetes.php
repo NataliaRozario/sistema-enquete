@@ -27,7 +27,7 @@ if ($result->num_rows > 0) {
     }
     echo '</ul>';
 
-    echo '<button type="submit" class="btn btn-primary mt-3" id="liveAlertBtn">Deletar enquete</button>';
+    echo '<button type="submit" class="btn btn-primary btn-admin mt-3" id="liveAlertBtn">Deletar enquete</button>';
 } else {
     echo 'Sem enquetes por aqui... (Ainda). <br>';
 }

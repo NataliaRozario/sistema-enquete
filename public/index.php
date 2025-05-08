@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 $title = "Home";
 $content = ob_get_clean();
